@@ -1,0 +1,9 @@
+.root {
+  background: #efefef;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+.container {
+  margin: 16px;
+}
